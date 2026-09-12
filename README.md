@@ -79,7 +79,7 @@ Overall, the internship strengthened my understanding of electronics hardware de
   USB to EtherCAT adapter board is a communication interface that enables a PC or embedded system with a USB port to communicate with EtherCAT-based industrial devices. During the work, I gained an understanding of the board’s USB interface, EtherCAT communication, Ethernet PHY, RJ45 connectors, power supply, and supporting circuitry.
 </p>
 <p>
-  <a href="https://drive.google.com/file/d/1vL6ZV0nWUBBjVUiNe3LYxGN7vtb-it4k/view?usp=sharing " target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href=" " target="_blank"><strong>→ View Full Project Report</strong></a>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
