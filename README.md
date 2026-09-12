@@ -70,7 +70,7 @@ Overall, the internship strengthened my understanding of electronics hardware de
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt; USB to EtherCAT Adapter Board V1.0 &gt;</p>
+<p><strong><a href="https://drive.google.com/file/d/1c_oJqeLZJTkLk1x6O7cb-_50sOR7XBbW/view?usp=sharing">Project 1:</a></strong> &lt; USB to EtherCAT Adapter Board V1.0 &gt;</p>
 
 </div>
 
@@ -92,7 +92,6 @@ The capstone session brought everything together by showing how these skills app
 
 ## **Community Services**
 
-## Community Service
 
 ### Tree Plantation Drive
 - Participated in tree plantation drives to promote environmental sustainability.
